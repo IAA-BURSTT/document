@@ -1,3 +1,3 @@
 # document
 
-please navigate to the [IAA BURSTT - document wiki](https://github.com/IAA-BURSTT/document/wiki) page.
+please navigate to the [IAA BURSTT public Document wiki](https://github.com/IAA-BURSTT/document/wiki) page.
